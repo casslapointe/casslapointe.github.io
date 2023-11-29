@@ -10,7 +10,7 @@
 
 ### Race Demographics
 
-![Race Breakdown](race.png)
+![Race Breakdown](race_dem.png)
 
 ### Education
 
