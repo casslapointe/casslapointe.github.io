@@ -12,8 +12,6 @@
 
 ![Race Breakdown](race_dem.png)
 
-### Education
-
 ### Income & Housing
 
 - Average Income: $213,208/year
